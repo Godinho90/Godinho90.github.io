@@ -20,13 +20,10 @@ body {
     background-image: url(images/background.png);
     background-size: cover;
     background-position: center;
-    
-     
 }
 
 .container{
     padding: 10px 10%;
-    
 }
 
 nav {
@@ -34,7 +31,8 @@ nav {
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-    background-color: #1c1b1b;
+    background-color: #1c1b1b;   
+    
 }
 
 .logo {
